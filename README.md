@@ -2,7 +2,7 @@
 This repository contains a C++ program called the Virtual Calendar Day Calculator. It calculates the day of the week for a given date entered by the user.
 
 # Features
-User-friendly interface: The program prompts users to enter a date in the MM DD YYYY format (e.g., 12 31 2022).
+User-friendly interface: The program prompts users to enter a date in the DD MM YYYY format (e.g., 27 06 2024).
 Comprehensive date validation: The program validates the entered date for various aspects:
 Month range (1-12)
 Day range (1-31, considering days in each month and leap years)
